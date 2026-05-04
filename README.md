@@ -1,9 +1,11 @@
 # Lumix Releases
 This repository hosts the lumix releases and its packages.
 
+![version](https://img.shields.io/github/v/release/duplidev/lumix-releases)
+
 ## Usage
 
-Add to your `build.gradle.kts`:
+Add this to your `build.gradle.kts` and replace `\<version\>` with the current release.
 ```kotlin
 repositories {
     maven {
