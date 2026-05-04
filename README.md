@@ -5,7 +5,7 @@ This repository hosts the lumix releases and its packages.
 
 ## Usage
 
-Add this to your `build.gradle.kts` and replace `\<version\>` with the current release.
+Add this to your `build.gradle.kts` and replace `<version>` with the current release.
 ```kotlin
 repositories {
     maven {
